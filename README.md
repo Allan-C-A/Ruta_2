@@ -19,8 +19,6 @@ Ubicado en la Cordillera de Talamanca, en la provincia de Cartago, el PNTMM tien
   + *Bosque montano* 
   + *Paramo pluvial subalpino*
 
-+ #### Loticos
-   Comprende ríos y bosques en sus márgenes
 
 + #### Paramos
   Es de gran importancia por comprender especies de plantas y animales restringidos a estos ecosistemas
@@ -37,3 +35,6 @@ Ubicado en la Cordillera de Talamanca, en la provincia de Cartago, el PNTMM tien
 + #### Fauna
   17 especies de moluscos terrestres,  2895 de insectos, 302 especies de aves  y  45 especies de mamíferos, entre los cuales destaca la [danta](https://www.ucr.ac.cr/noticias/2017/06/13/la-danta-jardinera-del-bosque-en-riesgo.html) (*Tappirus bairdii*).
 
+![danta](danta.jpeg)
+
+Lo anterior da paso a preguntarse si existen mecanismos que permitan reducir la velocidad, sin causar congestionamiento, y así proteger tanto los animales como las personas en sus vehículos.
